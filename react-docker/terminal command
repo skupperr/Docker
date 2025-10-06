@@ -1,0 +1,7 @@
+docker build -t react-docker .
+
+# It only runs the app, code updates aren't immediately visible in the host 
+docker run -p 5173:5173 react-docker
+
+# To make the update immediately be visible in the host (Auto reload)
+docker run -it -p 5173:5173 -v ${PWD}:/app -v /app/node_modules -e CHOKIDAR_USEPOLLING=true -e WATCHPACK_POLLING=true react-docker

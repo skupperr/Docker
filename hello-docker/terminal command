@@ -1,0 +1,10 @@
+cd hello-docker
+
+# creating docker image
+docker build -t hello-docker .
+
+# see all docker images
+docker images
+
+# run the docker image
+docker run hello-docker
