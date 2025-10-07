@@ -1,29 +1,33 @@
 {
   "date": "2025-10-07",
-  "summary": "- react-docker-compose\\compose.yaml: 13 changes\n- react-docker-compose\\package.json: 4 changes\n- react-docker-compose: 3 changes\n- react-docker-compose\\src\\App.tsx: 3 changes\n- react-docker-compose\\Dockerfile: 3 changes\n- .streakagent: 2 changes\n- react-docker-compose\\react-docker-compose: 2 changes\n- react-docker-compose\\terminal command: 2 changes\n- react-docker-compose\\react-docker-compose\\index.html: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\main.tsx: 1 changes\n- react-docker-compose\\react-docker-compose\\eslint.config.js: 1 changes\n- react-docker-compose\\react-docker-compose\\README.md: 1 changes\n- react-docker-compose\\react-docker-compose\\tsconfig.json: 1 changes\n- react-docker-compose\\react-docker-compose\\package.json: 1 changes\n- react-docker-compose\\react-docker-compose\\public: 1 changes\n- react-docker-compose\\react-docker-compose\\src: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\assets: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\App.css: 1 changes\n- react-docker-compose\\react-docker-compose\\public\\vite.svg: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\index.css: 1 changes\n- react-docker-compose\\react-docker-compose\\tsconfig.app.json: 1 changes\n- react-docker-compose\\react-docker-compose\\tsconfig.node.json: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\App.tsx: 1 changes\n- react-docker-compose\\react-docker-compose\\vite.config.ts: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\assets\\react.svg: 1 changes\n- react-docker-compose\\react-docker-compose\\package-lock.json: 1 changes\n- react-docker-compose\\index.html: 1 changes\n- react-docker-compose\\src\\main.tsx: 1 changes\n- react-docker-compose\\tsconfig.json: 1 changes\n- react-docker-compose\\vite.config.ts: 1 changes\n- react-docker-compose\\README.md: 1 changes\n- react-docker-compose\\eslint.config.js: 1 changes\n- react-docker-compose\\public\\vite.svg: 1 changes\n- react-docker-compose\\src\\App.css: 1 changes\n- react-docker-compose\\src\\index.css: 1 changes\n- react-docker-compose\\src\\assets\\react.svg: 1 changes\n- react-docker-compose\\tsconfig.app.json: 1 changes\n- react-docker-compose\\tsconfig.node.json: 1 changes\n- react-docker-compose\\public: 1 changes\n- react-docker-compose\\src: 1 changes\n- react-docker-compose\\src\\assets: 1 changes\n- react-docker-compose\\.dockerignore: 1 changes\n- react-docker-compose\\README.Docker.md: 1 changes",
+  "summary": "- mern-docker\\frontend\\Dockerfile: 18 changes\n- react-docker-compose\\compose.yaml: 13 changes\n- mern-docker\\backend\\Dockerfile: 9 changes\n- .streakagent: 4 changes\n- react-docker-compose\\package.json: 4 changes\n- react-docker-compose: 3 changes\n- react-docker-compose\\src\\App.tsx: 3 changes\n- react-docker-compose\\Dockerfile: 3 changes\n- react-docker-compose\\react-docker-compose: 2 changes\n- react-docker-compose\\terminal command: 2 changes\n- starter_mern-docker: 2 changes\n- mern-docker\\frontend\\.docekrignore: 2 changes\n- mern-docker\\frontend\\.dockerignore: 2 changes\n- react-docker-compose\\react-docker-compose\\index.html: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\main.tsx: 1 changes\n- react-docker-compose\\react-docker-compose\\eslint.config.js: 1 changes\n- react-docker-compose\\react-docker-compose\\README.md: 1 changes\n- react-docker-compose\\react-docker-compose\\tsconfig.json: 1 changes\n- react-docker-compose\\react-docker-compose\\package.json: 1 changes\n- react-docker-compose\\react-docker-compose\\public: 1 changes\n- react-docker-compose\\react-docker-compose\\src: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\assets: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\App.css: 1 changes\n- react-docker-compose\\react-docker-compose\\public\\vite.svg: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\index.css: 1 changes\n- react-docker-compose\\react-docker-compose\\tsconfig.app.json: 1 changes\n- react-docker-compose\\react-docker-compose\\tsconfig.node.json: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\App.tsx: 1 changes\n- react-docker-compose\\react-docker-compose\\vite.config.ts: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\assets\\react.svg: 1 changes\n- react-docker-compose\\react-docker-compose\\package-lock.json: 1 changes\n- react-docker-compose\\index.html: 1 changes\n- react-docker-compose\\src\\main.tsx: 1 changes\n- react-docker-compose\\tsconfig.json: 1 changes\n- react-docker-compose\\vite.config.ts: 1 changes\n- react-docker-compose\\README.md: 1 changes\n- react-docker-compose\\eslint.config.js: 1 changes\n- react-docker-compose\\public\\vite.svg: 1 changes\n- react-docker-compose\\src\\App.css: 1 changes\n- react-docker-compose\\src\\index.css: 1 changes\n- react-docker-compose\\src\\assets\\react.svg: 1 changes\n- react-docker-compose\\tsconfig.app.json: 1 changes\n- react-docker-compose\\tsconfig.node.json: 1 changes\n- react-docker-compose\\public: 1 changes\n- react-docker-compose\\src: 1 changes\n- react-docker-compose\\src\\assets: 1 changes\n- react-docker-compose\\.dockerignore: 1 changes\n- react-docker-compose\\README.Docker.md: 1 changes\n- starter_mern-docker\\backend\\index.js: 1 changes\n- starter_mern-docker\\backend: 1 changes\n- starter_mern-docker\\backend\\.env.example: 1 changes\n- starter_mern-docker\\backend\\package.json: 1 changes\n- starter_mern-docker\\backend\\database\\connect.js: 1 changes\n- starter_mern-docker\\backend\\database\\anim.model.js: 1 changes\n- starter_mern-docker\\backend\\database: 1 changes\n- starter_mern-docker\\frontend: 1 changes\n- starter_mern-docker\\frontend\\public: 1 changes\n- starter_mern-docker\\frontend\\.env.example: 1 changes\n- starter_mern-docker\\frontend\\README.md: 1 changes\n- starter_mern-docker\\frontend\\index.html: 1 changes\n- starter_mern-docker\\frontend\\public\\vite.svg: 1 changes\n- starter_mern-docker\\frontend\\.eslintrc.cjs: 1 changes\n- starter_mern-docker\\frontend\\package.json: 1 changes\n- starter_mern-docker\\frontend\\src\\App.css: 1 changes\n- starter_mern-docker\\frontend\\src\\index.css: 1 changes\n- starter_mern-docker\\frontend\\src\\assets\\react.svg: 1 changes\n- starter_mern-docker\\frontend\\src\\assets: 1 changes\n- starter_mern-docker\\frontend\\src: 1 changes\n- starter_mern-docker\\frontend\\src\\pages: 1 changes\n- starter_mern-docker\\frontend\\src\\main.jsx: 1 changes\n- starter_mern-docker\\frontend\\vite.config.js: 1 changes\n- starter_mern-docker\\frontend\\src\\App.jsx: 1 changes\n- starter_mern-docker\\frontend\\src\\pages\\Create.jsx: 1 changes\n- starter_mern-docker\\frontend\\src\\pages\\Home.jsx: 1 changes\n- mern-docker: 1 changes\n- mern-docker\\backend\\.dockerignore: 1 changes\n- mern-docker\\compose.yml: 1 changes",
   "statistics": {
-    "totalFiles": 43,
-    "totalChanges": 67,
-    "mostEditedFile": "react-docker-compose\\compose.yaml",
-    "workDuration": "2h 15m",
+    "totalFiles": 77,
+    "totalChanges": 131,
+    "mostEditedFile": "mern-docker\\frontend\\Dockerfile",
+    "workDuration": "5h 29m",
     "fileTypes": {
-      "unknown": 19,
-      "html": 2,
+      "unknown": 63,
+      "html": 3,
       "tsx": 6,
-      "js": 2,
-      "md": 3,
-      "json": 12,
-      "css": 4,
-      "svg": 4,
+      "js": 6,
+      "md": 4,
+      "json": 14,
+      "css": 6,
+      "svg": 6,
       "ts": 2,
-      "yaml": 13
+      "yaml": 13,
+      "example": 2,
+      "cjs": 1,
+      "jsx": 4,
+      "yml": 1
     },
     "peakActivityHour": "16:00-17:00",
-    "totalLinesChanged": 5247
+    "totalLinesChanged": 6519
   },
   "projectDetails": {
     "branch": "main",
-    "commitHash": "9fd2d0b",
+    "commitHash": "c66a1aa",
     "remote": "https://github.com/skupperr/Docker.git",
     "name": "d:\\Docker"
   }
