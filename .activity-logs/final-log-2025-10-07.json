@@ -1,16 +1,25 @@
 {
   "date": "2025-10-07",
-  "summary": "- .streakagent: 2 changes",
+  "summary": "- react-docker-compose\\compose.yaml: 13 changes\n- react-docker-compose\\package.json: 4 changes\n- react-docker-compose: 3 changes\n- react-docker-compose\\src\\App.tsx: 3 changes\n- react-docker-compose\\Dockerfile: 3 changes\n- .streakagent: 2 changes\n- react-docker-compose\\react-docker-compose: 2 changes\n- react-docker-compose\\terminal command: 2 changes\n- react-docker-compose\\react-docker-compose\\index.html: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\main.tsx: 1 changes\n- react-docker-compose\\react-docker-compose\\eslint.config.js: 1 changes\n- react-docker-compose\\react-docker-compose\\README.md: 1 changes\n- react-docker-compose\\react-docker-compose\\tsconfig.json: 1 changes\n- react-docker-compose\\react-docker-compose\\package.json: 1 changes\n- react-docker-compose\\react-docker-compose\\public: 1 changes\n- react-docker-compose\\react-docker-compose\\src: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\assets: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\App.css: 1 changes\n- react-docker-compose\\react-docker-compose\\public\\vite.svg: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\index.css: 1 changes\n- react-docker-compose\\react-docker-compose\\tsconfig.app.json: 1 changes\n- react-docker-compose\\react-docker-compose\\tsconfig.node.json: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\App.tsx: 1 changes\n- react-docker-compose\\react-docker-compose\\vite.config.ts: 1 changes\n- react-docker-compose\\react-docker-compose\\src\\assets\\react.svg: 1 changes\n- react-docker-compose\\react-docker-compose\\package-lock.json: 1 changes\n- react-docker-compose\\index.html: 1 changes\n- react-docker-compose\\src\\main.tsx: 1 changes\n- react-docker-compose\\tsconfig.json: 1 changes\n- react-docker-compose\\vite.config.ts: 1 changes\n- react-docker-compose\\README.md: 1 changes\n- react-docker-compose\\eslint.config.js: 1 changes\n- react-docker-compose\\public\\vite.svg: 1 changes\n- react-docker-compose\\src\\App.css: 1 changes\n- react-docker-compose\\src\\index.css: 1 changes\n- react-docker-compose\\src\\assets\\react.svg: 1 changes\n- react-docker-compose\\tsconfig.app.json: 1 changes\n- react-docker-compose\\tsconfig.node.json: 1 changes\n- react-docker-compose\\public: 1 changes\n- react-docker-compose\\src: 1 changes\n- react-docker-compose\\src\\assets: 1 changes\n- react-docker-compose\\.dockerignore: 1 changes\n- react-docker-compose\\README.Docker.md: 1 changes",
   "statistics": {
-    "totalFiles": 1,
-    "totalChanges": 2,
-    "mostEditedFile": ".streakagent",
-    "workDuration": "0h 0m",
+    "totalFiles": 43,
+    "totalChanges": 67,
+    "mostEditedFile": "react-docker-compose\\compose.yaml",
+    "workDuration": "2h 15m",
     "fileTypes": {
-      "unknown": 2
+      "unknown": 19,
+      "html": 2,
+      "tsx": 6,
+      "js": 2,
+      "md": 3,
+      "json": 12,
+      "css": 4,
+      "svg": 4,
+      "ts": 2,
+      "yaml": 13
     },
     "peakActivityHour": "16:00-17:00",
-    "totalLinesChanged": 16
+    "totalLinesChanged": 5247
   },
   "projectDetails": {
     "branch": "main",
